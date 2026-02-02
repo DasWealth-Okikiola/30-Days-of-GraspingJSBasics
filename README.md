@@ -1,1 +1,1 @@
-# 30 Days of Node.js Transition
+# 30 Days of grasping JS basics and concepts
