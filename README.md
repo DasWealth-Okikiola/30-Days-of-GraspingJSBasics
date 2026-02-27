@@ -1,8 +1,8 @@
-#30 Days of JavaScript Fundamentals
+#**30 Days of JavaScript Fundamentals**
 
-#The Discipline Phase
+The Discipline Phase
 
-This repository documents my first 30 days in backend engineering—before frameworks, before servers, before Node.js. I refused to skip the foundations. This is a collection of logical problems, simulations, and fundamental concepts that are now the engine of my Node/Express systems.
+***This repository documents my first 30 days in backend engineering—before frameworks, before servers, before Node.js. I refused to skip the foundations. This is a collection of logical problems, simulations, and fundamental concepts that are now the engine of my Node/Express systems.***
 
 #What I Mastered:
 
